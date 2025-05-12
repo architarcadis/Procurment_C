@@ -1,0 +1,16 @@
+name,category,relationship,sustainability_score
+MACE,Construction,Strategic Partner,85
+Balfour Beatty,Construction,Tier 1,82
+Turner & Townsend,Project Management,Strategic Partner,78
+Arup,Engineering,Tier 1,90
+Atkins,Engineering,Tier 1,88
+Siemens,Technology,Tier 1,92
+Vanderlande,Baggage Systems,Strategic Partner,80
+Wilson James,Logistics,Tier 1,75
+Mitie,Facilities Management,Strategic Partner,83
+ISS,Cleaning Services,Tier 1,79
+Omniserv,PRM Services,Tier 1,76
+OCS,Facilities Services,Tier 1,74
+Thales,Security Systems,Tier 1,87
+Shell Aviation,Fuel Supply,Strategic Partner,81
+Babcock,Ground Support Equipment,Tier 1,72

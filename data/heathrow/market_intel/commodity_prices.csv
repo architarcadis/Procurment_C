@@ -1,0 +1,145 @@
+Date,Commodity,Price,Currency,Unit
+2023-06-01,Jet Fuel,847.18,GBP,tonne
+2023-06-01,Steel,627.31,GBP,tonne
+2023-06-01,Concrete,109.78,GBP,m³
+2023-06-01,Plastics,1866.13,GBP,tonne
+2023-06-01,Copper,7538.11,GBP,tonne
+2023-06-01,IT Hardware,152.56,GBP,Index
+2023-07-01,Jet Fuel,968.25,GBP,tonne
+2023-07-01,Steel,613.15,GBP,tonne
+2023-07-01,Concrete,108.09,GBP,m³
+2023-07-01,Plastics,1745.35,GBP,tonne
+2023-07-01,Copper,7363.41,GBP,tonne
+2023-07-01,IT Hardware,143.84,GBP,Index
+2023-08-01,Jet Fuel,1016.09,GBP,tonne
+2023-08-01,Steel,629.97,GBP,tonne
+2023-08-01,Concrete,116.22,GBP,m³
+2023-08-01,Plastics,1904.73,GBP,tonne
+2023-08-01,Copper,7825.81,GBP,tonne
+2023-08-01,IT Hardware,152.13,GBP,Index
+2023-09-01,Jet Fuel,1026.18,GBP,tonne
+2023-09-01,Steel,608.51,GBP,tonne
+2023-09-01,Concrete,110.74,GBP,m³
+2023-09-01,Plastics,1799.0,GBP,tonne
+2023-09-01,Copper,7665.3,GBP,tonne
+2023-09-01,IT Hardware,153.21,GBP,Index
+2023-10-01,Jet Fuel,953.71,GBP,tonne
+2023-10-01,Steel,620.68,GBP,tonne
+2023-10-01,Concrete,106.15,GBP,m³
+2023-10-01,Plastics,1840.44,GBP,tonne
+2023-10-01,Copper,7823.17,GBP,tonne
+2023-10-01,IT Hardware,145.08,GBP,Index
+2023-11-01,Jet Fuel,841.88,GBP,tonne
+2023-11-01,Steel,659.07,GBP,tonne
+2023-11-01,Concrete,109.65,GBP,m³
+2023-11-01,Plastics,1770.91,GBP,tonne
+2023-11-01,Copper,7730.51,GBP,tonne
+2023-11-01,IT Hardware,146.49,GBP,Index
+2023-12-01,Jet Fuel,745.66,GBP,tonne
+2023-12-01,Steel,635.4,GBP,tonne
+2023-12-01,Concrete,108.51,GBP,m³
+2023-12-01,Plastics,1854.56,GBP,tonne
+2023-12-01,Copper,7558.84,GBP,tonne
+2023-12-01,IT Hardware,149.31,GBP,Index
+2024-01-01,Jet Fuel,609.46,GBP,tonne
+2024-01-01,Steel,627.89,GBP,tonne
+2024-01-01,Concrete,107.78,GBP,m³
+2024-01-01,Plastics,1926.32,GBP,tonne
+2024-01-01,Copper,7692.62,GBP,tonne
+2024-01-01,IT Hardware,163.76,GBP,Index
+2024-02-01,Jet Fuel,576.86,GBP,tonne
+2024-02-01,Steel,649.25,GBP,tonne
+2024-02-01,Concrete,106.55,GBP,m³
+2024-02-01,Plastics,1947.52,GBP,tonne
+2024-02-01,Copper,7782.9,GBP,tonne
+2024-02-01,IT Hardware,145.75,GBP,Index
+2024-03-01,Jet Fuel,588.21,GBP,tonne
+2024-03-01,Steel,658.06,GBP,tonne
+2024-03-01,Concrete,105.69,GBP,m³
+2024-03-01,Plastics,1875.11,GBP,tonne
+2024-03-01,Copper,7879.1,GBP,tonne
+2024-03-01,IT Hardware,151.2,GBP,Index
+2024-04-01,Jet Fuel,621.38,GBP,tonne
+2024-04-01,Steel,610.83,GBP,tonne
+2024-04-01,Concrete,105.16,GBP,m³
+2024-04-01,Plastics,1902.1,GBP,tonne
+2024-04-01,Copper,8009.51,GBP,tonne
+2024-04-01,IT Hardware,162.77,GBP,Index
+2024-05-01,Jet Fuel,744.88,GBP,tonne
+2024-05-01,Steel,593.87,GBP,tonne
+2024-05-01,Concrete,113.12,GBP,m³
+2024-05-01,Plastics,1874.51,GBP,tonne
+2024-05-01,Copper,8081.65,GBP,tonne
+2024-05-01,IT Hardware,145.52,GBP,Index
+2024-06-01,Jet Fuel,863.7,GBP,tonne
+2024-06-01,Steel,661.12,GBP,tonne
+2024-06-01,Concrete,111.55,GBP,m³
+2024-06-01,Plastics,2060.48,GBP,tonne
+2024-06-01,Copper,8110.91,GBP,tonne
+2024-06-01,IT Hardware,147.17,GBP,Index
+2024-07-01,Jet Fuel,908.38,GBP,tonne
+2024-07-01,Steel,665.54,GBP,tonne
+2024-07-01,Concrete,105.11,GBP,m³
+2024-07-01,Plastics,1962.5,GBP,tonne
+2024-07-01,Copper,8216.54,GBP,tonne
+2024-07-01,IT Hardware,148.92,GBP,Index
+2024-08-01,Jet Fuel,1033.0,GBP,tonne
+2024-08-01,Steel,608.83,GBP,tonne
+2024-08-01,Concrete,111.24,GBP,m³
+2024-08-01,Plastics,1908.66,GBP,tonne
+2024-08-01,Copper,8011.7,GBP,tonne
+2024-08-01,IT Hardware,151.41,GBP,Index
+2024-09-01,Jet Fuel,1015.88,GBP,tonne
+2024-09-01,Steel,629.4,GBP,tonne
+2024-09-01,Concrete,104.16,GBP,m³
+2024-09-01,Plastics,1923.86,GBP,tonne
+2024-09-01,Copper,8424.09,GBP,tonne
+2024-09-01,IT Hardware,153.65,GBP,Index
+2024-10-01,Jet Fuel,1015.19,GBP,tonne
+2024-10-01,Steel,623.06,GBP,tonne
+2024-10-01,Concrete,108.25,GBP,m³
+2024-10-01,Plastics,2004.3,GBP,tonne
+2024-10-01,Copper,8593.36,GBP,tonne
+2024-10-01,IT Hardware,150.25,GBP,Index
+2024-11-01,Jet Fuel,841.48,GBP,tonne
+2024-11-01,Steel,672.15,GBP,tonne
+2024-11-01,Concrete,105.05,GBP,m³
+2024-11-01,Plastics,2019.01,GBP,tonne
+2024-11-01,Copper,8055.76,GBP,tonne
+2024-11-01,IT Hardware,138.67,GBP,Index
+2024-12-01,Jet Fuel,732.86,GBP,tonne
+2024-12-01,Steel,620.85,GBP,tonne
+2024-12-01,Concrete,103.42,GBP,m³
+2024-12-01,Plastics,2082.8,GBP,tonne
+2024-12-01,Copper,8039.05,GBP,tonne
+2024-12-01,IT Hardware,151.48,GBP,Index
+2025-01-01,Jet Fuel,604.76,GBP,tonne
+2025-01-01,Steel,607.43,GBP,tonne
+2025-01-01,Concrete,104.56,GBP,m³
+2025-01-01,Plastics,1936.27,GBP,tonne
+2025-01-01,Copper,8043.16,GBP,tonne
+2025-01-01,IT Hardware,150.8,GBP,Index
+2025-02-01,Jet Fuel,573.25,GBP,tonne
+2025-02-01,Steel,640.92,GBP,tonne
+2025-02-01,Concrete,108.04,GBP,m³
+2025-02-01,Plastics,2146.63,GBP,tonne
+2025-02-01,Copper,8197.62,GBP,tonne
+2025-02-01,IT Hardware,147.29,GBP,Index
+2025-03-01,Jet Fuel,558.46,GBP,tonne
+2025-03-01,Steel,603.29,GBP,tonne
+2025-03-01,Concrete,108.74,GBP,m³
+2025-03-01,Plastics,2019.03,GBP,tonne
+2025-03-01,Copper,8102.44,GBP,tonne
+2025-03-01,IT Hardware,149.29,GBP,Index
+2025-04-01,Jet Fuel,599.08,GBP,tonne
+2025-04-01,Steel,658.01,GBP,tonne
+2025-04-01,Concrete,107.96,GBP,m³
+2025-04-01,Plastics,1999.23,GBP,tonne
+2025-04-01,Copper,8852.69,GBP,tonne
+2025-04-01,IT Hardware,148.94,GBP,Index
+2025-05-01,Jet Fuel,697.36,GBP,tonne
+2025-05-01,Steel,618.46,GBP,tonne
+2025-05-01,Concrete,107.58,GBP,m³
+2025-05-01,Plastics,1970.55,GBP,tonne
+2025-05-01,Copper,8712.02,GBP,tonne
+2025-05-01,IT Hardware,153.27,GBP,Index

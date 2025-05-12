@@ -1,0 +1,16 @@
+supplier,category,contract_name,start_date,end_date,value,status
+MACE,Construction,Terminal 2 Expansion PMO,2023-01-15,2027-12-31,"£75,000,000",Active
+Balfour Beatty,Construction,Runway Maintenance Framework,2023-03-01,2026-02-28,"£120,000,000",Active
+Turner & Townsend,Professional Services,Cost Management Services,2022-07-01,2025-06-30,"£28,500,000",Active
+Arup,Professional Services,Engineering Design Services,2022-09-15,2025-09-14,"£42,000,000",Active
+Siemens,IT & Technology,Baggage Systems Upgrade,2022-05-01,2024-10-31,"£185,000,000",Active
+Vanderlande,IT & Technology,Baggage Handling Maintenance,2021-11-01,2026-10-31,"£95,000,000",Active
+Mitie,Facilities Management,Facilities Management Services,2023-04-01,2028-03-31,"£150,000,000",Active
+ISS,Facilities Management,Cleaning & Waste Management,2023-01-01,2027-12-31,"£120,000,000",Active
+Thales,Security,Security Systems Integration,2022-08-15,2026-08-14,"£68,000,000",Active
+Shell Aviation,Aviation Services,Fuel Supply Agreement,2020-10-01,2025-09-30,"£1,200,000,000",Active
+Wilson James,Logistics,Logistics Services,2021-06-01,2024-05-31,"£45,000,000",Active
+Babcock,Ground Support Equipment,GSE Maintenance,2022-03-01,2025-02-28,"£35,000,000",Active
+Omniserv,Aviation Services,PRM Services,2021-09-01,2024-08-31,"£55,000,000",Active
+Atkins,Professional Services,Engineering Consultancy Framework,2022-11-01,2026-10-31,"£38,000,000",Active
+OCS,Facilities Management,Specialist Cleaning Services,2021-08-01,2024-07-31,"£22,000,000",Active

@@ -1,0 +1,91 @@
+Supplier,Category,Risk_Type,Risk_Score,Last_Assessment
+MACE,Construction,Financial Stability,2,2025-02-09
+MACE,Construction,Supply Chain Disruption,4,2025-03-15
+MACE,Construction,Regulatory Compliance,2,2025-04-01
+MACE,Construction,Quality Issues,1,2025-02-25
+MACE,Construction,Delivery Performance,2,2025-05-03
+MACE,Construction,ESG Compliance,1,2025-03-17
+Balfour Beatty,Construction,Financial Stability,2,2025-03-18
+Balfour Beatty,Construction,Supply Chain Disruption,3,2025-03-18
+Balfour Beatty,Construction,Regulatory Compliance,4,2025-04-03
+Balfour Beatty,Construction,Quality Issues,4,2025-02-13
+Balfour Beatty,Construction,Delivery Performance,2,2025-05-09
+Balfour Beatty,Construction,ESG Compliance,2,2025-04-05
+Turner & Townsend,Project Management,Financial Stability,1,2025-02-17
+Turner & Townsend,Project Management,Supply Chain Disruption,3,2025-05-07
+Turner & Townsend,Project Management,Regulatory Compliance,1,2025-02-19
+Turner & Townsend,Project Management,Quality Issues,1,2025-04-25
+Turner & Townsend,Project Management,Delivery Performance,1,2025-04-29
+Turner & Townsend,Project Management,ESG Compliance,2,2025-03-20
+Arup,Engineering,Financial Stability,4,2025-05-07
+Arup,Engineering,Supply Chain Disruption,4,2025-03-01
+Arup,Engineering,Regulatory Compliance,1,2025-03-08
+Arup,Engineering,Quality Issues,4,2025-04-14
+Arup,Engineering,Delivery Performance,3,2025-04-13
+Arup,Engineering,ESG Compliance,2,2025-03-06
+Atkins,Engineering,Financial Stability,4,2025-03-05
+Atkins,Engineering,Supply Chain Disruption,4,2025-05-09
+Atkins,Engineering,Regulatory Compliance,2,2025-04-13
+Atkins,Engineering,Quality Issues,4,2025-02-11
+Atkins,Engineering,Delivery Performance,1,2025-05-06
+Atkins,Engineering,ESG Compliance,2,2025-04-29
+Siemens,Technology,Financial Stability,2,2025-04-19
+Siemens,Technology,Supply Chain Disruption,1,2025-04-17
+Siemens,Technology,Regulatory Compliance,4,2025-02-11
+Siemens,Technology,Quality Issues,1,2025-03-11
+Siemens,Technology,Delivery Performance,2,2025-04-14
+Siemens,Technology,ESG Compliance,2,2025-04-07
+Vanderlande,Baggage Systems,Financial Stability,3,2025-03-01
+Vanderlande,Baggage Systems,Supply Chain Disruption,1,2025-03-10
+Vanderlande,Baggage Systems,Regulatory Compliance,1,2025-03-10
+Vanderlande,Baggage Systems,Quality Issues,1,2025-04-08
+Vanderlande,Baggage Systems,Delivery Performance,1,2025-03-17
+Vanderlande,Baggage Systems,ESG Compliance,1,2025-02-24
+Wilson James,Logistics,Financial Stability,3,2025-02-11
+Wilson James,Logistics,Supply Chain Disruption,3,2025-04-16
+Wilson James,Logistics,Regulatory Compliance,2,2025-05-04
+Wilson James,Logistics,Quality Issues,4,2025-04-30
+Wilson James,Logistics,Delivery Performance,2,2025-03-10
+Wilson James,Logistics,ESG Compliance,3,2025-02-21
+Mitie,Facilities Management,Financial Stability,2,2025-04-03
+Mitie,Facilities Management,Supply Chain Disruption,2,2025-02-15
+Mitie,Facilities Management,Regulatory Compliance,1,2025-05-05
+Mitie,Facilities Management,Quality Issues,1,2025-04-12
+Mitie,Facilities Management,Delivery Performance,1,2025-02-20
+Mitie,Facilities Management,ESG Compliance,1,2025-04-30
+ISS,Cleaning Services,Financial Stability,3,2025-04-14
+ISS,Cleaning Services,Supply Chain Disruption,2,2025-04-01
+ISS,Cleaning Services,Regulatory Compliance,1,2025-03-18
+ISS,Cleaning Services,Quality Issues,3,2025-04-03
+ISS,Cleaning Services,Delivery Performance,3,2025-04-24
+ISS,Cleaning Services,ESG Compliance,3,2025-02-10
+Omniserv,PRM Services,Financial Stability,2,2025-03-23
+Omniserv,PRM Services,Supply Chain Disruption,2,2025-03-16
+Omniserv,PRM Services,Regulatory Compliance,1,2025-05-03
+Omniserv,PRM Services,Quality Issues,4,2025-04-23
+Omniserv,PRM Services,Delivery Performance,2,2025-02-26
+Omniserv,PRM Services,ESG Compliance,3,2025-04-19
+OCS,Facilities Services,Financial Stability,4,2025-02-22
+OCS,Facilities Services,Supply Chain Disruption,4,2025-02-11
+OCS,Facilities Services,Regulatory Compliance,1,2025-02-10
+OCS,Facilities Services,Quality Issues,2,2025-04-15
+OCS,Facilities Services,Delivery Performance,2,2025-03-24
+OCS,Facilities Services,ESG Compliance,3,2025-03-24
+Thales,Security Systems,Financial Stability,3,2025-02-28
+Thales,Security Systems,Supply Chain Disruption,1,2025-03-11
+Thales,Security Systems,Regulatory Compliance,2,2025-02-15
+Thales,Security Systems,Quality Issues,4,2025-02-24
+Thales,Security Systems,Delivery Performance,1,2025-02-20
+Thales,Security Systems,ESG Compliance,2,2025-03-19
+Shell Aviation,Fuel Supply,Financial Stability,3,2025-02-28
+Shell Aviation,Fuel Supply,Supply Chain Disruption,2,2025-03-05
+Shell Aviation,Fuel Supply,Regulatory Compliance,1,2025-04-19
+Shell Aviation,Fuel Supply,Quality Issues,2,2025-03-04
+Shell Aviation,Fuel Supply,Delivery Performance,1,2025-04-17
+Shell Aviation,Fuel Supply,ESG Compliance,1,2025-05-09
+Babcock,Ground Support Equipment,Financial Stability,2,2025-02-21
+Babcock,Ground Support Equipment,Supply Chain Disruption,3,2025-04-01
+Babcock,Ground Support Equipment,Regulatory Compliance,1,2025-03-23
+Babcock,Ground Support Equipment,Quality Issues,2,2025-04-04
+Babcock,Ground Support Equipment,Delivery Performance,1,2025-02-25
+Babcock,Ground Support Equipment,ESG Compliance,3,2025-04-06
